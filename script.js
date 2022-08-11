@@ -1,5 +1,5 @@
 
-//rawon, soto betawi, esteh,krupuk, telur asin-->
+
 let totalHargaMakanan = 0;
 let food = [
     {
@@ -300,7 +300,10 @@ function generateData(){
     cartList.appendChild(divbutton);
 
 
-  
 
 }
+
 generateData()
+
+
+var lightbox = new SimpleLightbox(".stars-gallery a");
